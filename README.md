@@ -3,15 +3,15 @@
 ## FUNCTIONS
 ## Customer
 - Customer can view/search products without login.
-- Customer can also add/remove product to cart without login (if customer try to add same product in cart. It will add only one)
+- Customer can also add/remove product to cart without login 
 - When customer try to purchase product, then he/she must login to system.
 - After creating account and login to system, he/she can place order.
-- There is a payment page also (just for demo, DONT FILL YOUR CARD DETAILS THERE ,By the way, website do not save that details)
+- There is a payment page also
 - If customer click on pay button, then their payment will be successful and their order will be placed.
 - Customer can check their ordered details by clicking on orders button.
 - Customer can see the order status (Pending, Confirmed, Delivered) for each order  
 - Customer can Download their order invoice for each order
-- Customer can send feedback to admin (without login)
+- Customer can send feedback to admin
 ---
 ### Admin
 - First admin will login ( for username/password run following command in cmd )
